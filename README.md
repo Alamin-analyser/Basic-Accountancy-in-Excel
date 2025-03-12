@@ -22,7 +22,7 @@ Also I have create the Balance Sheet for 31st mar 2025.
 
 ## Balance Sheet of New Learner Ltd
 
-![alt text](Accountancy Image/Balance Sheet.png)
+![alt text](AccountancyImage/BalanceSheet.png)
 
 
 ![alt text](Images/Image1.png)
