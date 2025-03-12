@@ -1,8 +1,28 @@
-# Excel Project
-This Markdown cheat sheet provides a quick overview of all the Markdown syntax elements. It can’t cover every edge case, so if you need more information about any of these elements, refer to the reference guides for basic syntax and extended syntax.
-**These are the elements outlined in John Gruber’s original design document. All Markdown applications support these elements.**
-## Dashboard of my project
-This is the dashboard
+# Basic Accountancy Project in Excel
+
+In this project I have worked on how to create Ledger, Trial Balance, Income Statement and Balance Sheet.
+
+I gave the company name New Learner Ltd and entered some random income and expenses to create Ledger and Trial Balance.
+
+## Ledger of New Learner Ltd
+
+![alt text](Accountancy Image/Ledger.png)
+
+## Trial Balance of New Learner Ltd
+
+![alt text](Accountancy Image/Trial Balance.png)
+
+I created the Income Statment for the period of 1st Jan 2025 to 31st Mar 2025 by getting the data from Trial Balance.
+
+## Income Statement of New Learner Ltd
+
+![alt text](Accountancy Image/Income Statement.png)
+
+Also I have create the Balance Sheet for 31st mar 2025.
+
+## Balance Sheet of New Learner Ltd
+
+![alt text](Accountancy Image/Balance Sheet.png)
 
 
 ![alt text](Images/Image1.png)
@@ -10,4 +30,4 @@ This is the dashboard
 
 [Link with workbook](https://drive.google.com/file/d/1LnbVKjQvPkocipNViR3mmR_eEb4emrbj/view?usp=drive_link)
 
-😂
+
