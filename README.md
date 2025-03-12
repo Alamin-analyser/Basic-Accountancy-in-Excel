@@ -3,4 +3,4 @@ This Markdown cheat sheet provides a quick overview of all the Markdown syntax e
 **These are the elements outlined in John Gruber’s original design document. All Markdown applications support these elements.**
 ## Dashboard of my project
 This is the dashboard
-![alt text](Image/Screenshot 2025-01-28 204231.jpg)
+![alt text](Images/Screenshot 2025-01-28 204231.jpg)
