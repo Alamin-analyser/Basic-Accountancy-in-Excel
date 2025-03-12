@@ -4,5 +4,6 @@ This Markdown cheat sheet provides a quick overview of all the Markdown syntax e
 ## Dashboard of my project
 This is the dashboard
 
+![alt text](Images/Image1.jpg)
 
 
