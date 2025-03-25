@@ -24,8 +24,6 @@ Also I have create the Balance Sheet for 31st mar 2025.
 
 ![alt text](Accountancy_Image/Balance_Sheet.png)
 
-
-
-[Link with workbook](https://docs.google.com/spreadsheets/d/10ezKHr0yJe8txyZt37BpRKrZ_aas7P83/edit?usp=drive_link&ouid=101537924484019331419&rtpof=true&sd=true)
+Full Workbook [here](https://docs.google.com/spreadsheets/d/10ezKHr0yJe8txyZt37BpRKrZ_aas7P83/edit?usp=drive_link&ouid=101537924484019331419&rtpof=true&sd=true)
 
 
