@@ -8,15 +8,15 @@ I created the Income Statment for the period of 1st Jan 2025 to 31st Mar 2025 by
 
 Also I have create the Balance Sheet for 31st mar 2025.
 
-# Ledger of New Learner Ltd
+## Ledger of New Learner Ltd
 
 ![alt text](Accountancy_Image/Ledger.png)
 
-# Trial Balance of New Learner Ltd
+## Trial Balance of New Learner Ltd
 
 ![alt text](Accountancy_Image/Trial_Balance.png)
 
-# Income Statement of New Learner Ltd
+## Income Statement of New Learner Ltd
 
 ![alt text](Accountancy_Image/Income_Statement.png)
 
